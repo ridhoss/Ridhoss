@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Ridho Sulistyo S and I'm a Frontend Developer</h1>
+<h1 align="center">Hi 👋! My name is Ridho Sulistyo S and I'm a Fullstack Developer</h1>
 
 ###
 
